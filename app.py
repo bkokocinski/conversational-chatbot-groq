@@ -21,7 +21,7 @@ def main():
     """
     
     # Get Groq API key
-    groq_api_key = os.environ['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']
+    groq_api_key = os.environ['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']
 
     # Display the Groq logo
     spacer, col = st.columns([5, 1])  
